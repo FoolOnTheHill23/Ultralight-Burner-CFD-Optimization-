@@ -28,7 +28,7 @@ The mechanical geometry was designed using a dual-model approach:
 **Visual Artifacts & Data**
 
 **Deployed CAD Assembly:**
-![Fusion 360 Render](Screenshot 2026-09-14 213329.png)
+![Fusion 360 Render](stove_render.png)
 
 **Internal Fluid Path Cross-Section:**
 ![Internal Mixing Chamber](stove_section.png)
